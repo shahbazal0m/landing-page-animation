@@ -18,7 +18,7 @@ It focuses on building an **interactive loading animation, scramble/descramble t
 
 ---
 
-## 🏆 Hackathon Info.  
+## 🏆 Hackathon Info:
 
 This project was created as part of the **Hackathon conducted in Job Ready AI Power Cohort 1.0**.  
 It was showcased as a **Frontend-based Hackathon project**, highlighting:  
@@ -29,7 +29,7 @@ It was showcased as a **Frontend-based Hackathon project**, highlighting:
 
 ---
 
-## ✨ Project Features 
+## ✨ Project Features:
 
 - ⚡ **Custom Loader Animation** using GSAP  
 - 🔤 **Scramble & Descramble Text Effect**  
@@ -39,7 +39,7 @@ It was showcased as a **Frontend-based Hackathon project**, highlighting:
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure:  
 
 project-root/
 │── index.html # Main entry file
@@ -63,7 +63,7 @@ project-root/
 
 ---
 
-## ▶ How to Run 
+## ▶ How to Run: 
 
 1. Clone the repository:  
    ```bash
@@ -78,7 +78,7 @@ No build setup required ✅
 
 Works directly as a static project.
 
-📌 Note
+📌 Note:
 
 This project was built and showcased in a Hackathon under guidance of Sheryians Coding School.
 It represents creative frontend problem-solving skills and modern web animations.
