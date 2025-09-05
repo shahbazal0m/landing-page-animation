@@ -1,13 +1,13 @@
-# 🚀 Hackathon Project – KOTHIK Loading Animation & Interactive Showcase  
+# 🚀 Hackathon Project – KOTHIK Loading Animation & Interactive Showcase.  
 
 This project was developed as part of the **Frontend Hackathon** conducted in  
-**Job Ready AI Power Cohort 1.0** at **Sheryians Coding School, Bhopal, Madhya Pradesh**.  
+**Job Ready AI Power Cohort 1.0** at **Sheryians Coding School Bhopal, Madhya Pradesh**.  
 
 It focuses on building an **interactive loading animation, scramble/descramble text effect, and GSAP-powered transitions** that provide a creative frontend showcase experience.  
 
 ---
 
-## 📑 Table of Contents  
+## 📑 Table of Contents:
 
 - [Hackathon Info](#-hackathon-info)  
 - [Project Features](#-project-features)  
@@ -18,7 +18,7 @@ It focuses on building an **interactive loading animation, scramble/descramble t
 
 ---
 
-## 🏆 Hackathon Info  
+## 🏆 Hackathon Info.  
 
 This project was created as part of the **Hackathon conducted in Job Ready AI Power Cohort 1.0**.  
 It was showcased as a **Frontend-based Hackathon project**, highlighting:  
@@ -29,7 +29,7 @@ It was showcased as a **Frontend-based Hackathon project**, highlighting:
 
 ---
 
-## ✨ Project Features  
+## ✨ Project Features 
 
 - ⚡ **Custom Loader Animation** using GSAP  
 - 🔤 **Scramble & Descramble Text Effect**  
@@ -52,7 +52,7 @@ project-root/
 
 ---
 
-## 🛠 Technologies Used  
+## 🛠 Technologies Used: 
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & Layout  
@@ -63,7 +63,7 @@ project-root/
 
 ---
 
-## ▶ How to Run  
+## ▶ How to Run 
 
 1. Clone the repository:  
    ```bash
@@ -83,6 +83,6 @@ Works directly as a static project.
 This project was built and showcased in a Hackathon under guidance of Sheryians Coding School.
 It represents creative frontend problem-solving skills and modern web animations.
 
-📧 Contact 
+📧 Contact:
 
 Created by Shahbaz Alam – feel free to connect!
