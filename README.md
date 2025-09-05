@@ -85,4 +85,4 @@ It represents creative frontend problem-solving skills and modern web animations
 
 📧 Contact
 
-Created by Your Name – feel free to connect!
+Created by Shahbaz Alam – feel free to connect!
