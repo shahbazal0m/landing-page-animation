@@ -13,8 +13,7 @@ It focuses on building an **interactive loading animation, scramble/descramble t
 - [Project Features](#-project-features)  
 - [Project Structure](#-project-structure)  
 - [Technologies Used](#-technologies-used)  
-- [How to Run](#-how-to-run)  
-- [Screenshots](#-screenshots)  
+- [How to Run](#-how-to-run)
 
 ---
 
