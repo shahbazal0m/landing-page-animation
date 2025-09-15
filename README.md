@@ -65,7 +65,6 @@ project-root/
 ## ▶ How to Run
 
 1. Clone the repository:  
-   ```bash
 <[git clone](https://github.com/shahbazal0m/landing-page-animation)>
 
 2. Navigate into the project folder:
@@ -73,11 +72,11 @@ cd project-folder
 
 3. Open index.html in your browser.
 
-No build setup required ✅
+- No build setup required ✅
 
-Works directly as a static project.
+- Works directly as a static project.
 
-📌 Note
+## 📌 Note
 
 This project was built and showcased in a Hackathon under guidance of Sheryians Coding School.
 It represents creative frontend problem-solving skills and modern web animations.
