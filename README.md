@@ -81,6 +81,6 @@ cd project-folder
 This project was built and showcased in a Hackathon under guidance of Sheryians Coding School.
 It represents creative frontend problem-solving skills and modern web animations.
 
-📧 Contact:
+## 📧 Contact
 
 Created by Shahbaz Alam – feel free to connect!
