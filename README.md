@@ -64,8 +64,7 @@ project-root/
 
 ## ▶ How to Run
 
-1. Clone the repository:  
-<[git clone](https://github.com/shahbazal0m/landing-page-animation)>
+1. Clone the repository: <[git clone](https://github.com/shahbazal0m/landing-page-animation)>
 
 2. Navigate into the project folder:
 cd project-folder
