@@ -1,4 +1,4 @@
-# 🚀 Hackathon Project – KOTHIK Loading Animation & Interactive Showcase.  
+# Hackathon Project – KOTHIK Loading Animation & Interactive Showcase.  
 
 This project was developed as part of the **Frontend Hackathon** conducted in  
 **Job Ready AI Power Cohort 1.0** at **Sheryians Coding School Bhopal, Madhya Pradesh**.  
