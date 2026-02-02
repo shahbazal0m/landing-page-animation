@@ -64,15 +64,14 @@ project-root/
 
 ## ▶ How to Run
 
-1. Clone the repository: <[git clone](https://github.com/shahbazal0m/landing-page-animation)>
-
-2. Navigate into the project folder:
+1. Clone the repository:
+```
+(https://github.com/shahbazal0m/landing-page-animation)
+```
+3. Navigate into the project folder:
 cd project-folder
-
-3. Open index.html in your browser.
-
+4. Open index.html in your browser.
 - No build setup required ✅
-
 - Works directly as a static project.
 
 ## 📌 Note
