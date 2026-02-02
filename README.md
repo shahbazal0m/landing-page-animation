@@ -66,7 +66,7 @@ project-root/
 
 1. Clone the repository:
 ```
-(https://github.com/shahbazal0m/landing-page-animation)
+git clone (https://github.com/shahbazal0m/landing-page-animation)
 ```
 3. Navigate into the project folder:
 cd project-folder
